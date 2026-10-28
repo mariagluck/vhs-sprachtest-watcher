@@ -1,0 +1,146 @@
+{
+ "815586": {
+  "id": "815586",
+  "district": "Spandau",
+  "number": "Sp4.003.05H-26",
+  "begin": "30.10.2026 08:00 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=815586"
+ },
+ "807503": {
+  "id": "807503",
+  "district": "Pankow",
+  "number": "Pa86033H",
+  "begin": "30.10.2026 13:00 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=807503"
+ },
+ "814112": {
+  "id": "814112",
+  "district": "Lichtenberg",
+  "number": "Li4.04-473H",
+  "begin": "03.11.2026 09:15 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=814112"
+ },
+ "801364": {
+  "id": "801364",
+  "district": "Spandau",
+  "number": "Sp4.003.03H-26",
+  "begin": "06.11.2026 08:00 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=801364"
+ },
+ "814113": {
+  "id": "814113",
+  "district": "Lichtenberg",
+  "number": "Li4.04-474H",
+  "begin": "10.11.2026 09:15 Uhr",
+  "places": "belegt",
+  "note": "nur mit Beratung buchbar",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=814113"
+ },
+ "788375": {
+  "id": "788375",
+  "district": "Pankow",
+  "number": "Pa86028H",
+  "begin": "12.11.2026 13:00 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=788375"
+ },
+ "805584": {
+  "id": "805584",
+  "district": "Treptow-Köpenick",
+  "number": "TK-6571-H",
+  "begin": "12.11.2026 14:00 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=805584"
+ },
+ "788376": {
+  "id": "788376",
+  "district": "Pankow",
+  "number": "Pa86029H",
+  "begin": "13.11.2026 13:00 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=788376"
+ },
+ "805357": {
+  "id": "805357",
+  "district": "Steglitz-Zehlendorf",
+  "number": "SZ880-2026-12",
+  "begin": "13.11.2026 13:30 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=805357"
+ },
+ "807240": {
+  "id": "807240",
+  "district": "Steglitz-Zehlendorf",
+  "number": "SZ880-2026-13",
+  "begin": "13.11.2026 13:30 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=807240"
+ },
+ "807947": {
+  "id": "807947",
+  "district": "Reinickendorf",
+  "number": "Re400091-ST",
+  "begin": "19.11.2026 13:15 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=807947"
+ },
+ "812615": {
+  "id": "812615",
+  "district": "Mitte",
+  "number": "Mi404SpTest-Nov.2026",
+  "begin": "20.11.2026 13:30 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=812615"
+ },
+ "814114": {
+  "id": "814114",
+  "district": "Lichtenberg",
+  "number": "Li4.04-475H",
+  "begin": "24.11.2026 09:15 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=814114"
+ },
+ "807504": {
+  "id": "807504",
+  "district": "Pankow",
+  "number": "Pa86034H",
+  "begin": "27.11.2026 13:00 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=807504"
+ },
+ "788377": {
+  "id": "788377",
+  "district": "Pankow",
+  "number": "Pa86030H",
+  "begin": "03.12.2026 13:00 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=788377"
+ },
+ "788378": {
+  "id": "788378",
+  "district": "Pankow",
+  "number": "Pa86031H",
+  "begin": "04.12.2026 13:00 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=788378"
+ }
+}

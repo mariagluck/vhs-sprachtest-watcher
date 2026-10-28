@@ -1,0 +1,4 @@
+/state.json
+watch.log
+*.plist
+__pycache__/

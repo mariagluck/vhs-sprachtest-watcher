@@ -1,0 +1,33 @@
+name: Watch VHS Sprachtest
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python watch.py --once --ntfy "$NTFY_TOPIC"
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          WATCH_STATE_FILE: ci/state.json
+      - name: Save state
+        run: |
+          git add ci/state.json
+          git diff --cached --quiet && exit 0
+          git -c user.name="vhs-watcher" -c user.email="actions@users.noreply.github.com" commit -m "Update state"
+          git push
