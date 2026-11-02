@@ -98,6 +98,15 @@
   "note": "Aufnahme in Warteliste möglich",
   "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=814114"
  },
+ "815588": {
+  "id": "815588",
+  "district": "Spandau",
+  "number": "Sp4.003.06H-26",
+  "begin": "27.11.2026 08:00 Uhr",
+  "places": "> 2",
+  "note": "",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=815588"
+ },
  "807504": {
   "id": "807504",
   "district": "Pankow",
@@ -115,6 +124,15 @@
   "places": "belegt",
   "note": "Aufnahme in Warteliste möglich",
   "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=788377"
+ },
+ "807948": {
+  "id": "807948",
+  "district": "Reinickendorf",
+  "number": "Re400092-ST",
+  "begin": "03.12.2026 13:15 Uhr",
+  "places": "belegt",
+  "note": "Aufnahme in Warteliste möglich",
+  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=807948"
  },
  "788378": {
   "id": "788378",
