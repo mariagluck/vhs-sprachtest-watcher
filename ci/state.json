@@ -1,13 +1,4 @@
 {
- "814112": {
-  "id": "814112",
-  "district": "Lichtenberg",
-  "number": "Li4.04-473H",
-  "begin": "03.11.2026 09:15 Uhr",
-  "places": "",
-  "note": "nicht buchbar",
-  "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=814112"
- },
  "801364": {
   "id": "801364",
   "district": "Spandau",
@@ -95,7 +86,7 @@
   "number": "Li4.04-475H",
   "begin": "24.11.2026 09:15 Uhr",
   "places": "belegt",
-  "note": "Aufnahme in Warteliste möglich",
+  "note": "nur mit Beratung buchbar",
   "url": "https://www.vhsit.berlin.de/vhskurse/BusinessPages/CourseDetail.aspx?id=814114"
  },
  "815588": {
